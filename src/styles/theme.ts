@@ -1,14 +1,18 @@
 export const theme = {
   colors: {
-    primaryColor: '#0A1128',
-    secondaryColor: '#dc143c',
-    white: '#FFFFFF',
-    mediumGray: '#DDDDDD',
+    pallete: {
+      black: '#4b4b55',
+      weakBlack: '#505057',
+      strongRed: '#f4324a',
+      weakRed: '#ff516c',
+      orange: '#fb9c5a',
+      yellow: '#fcc755',
+    },
   },
   font: {
     family: {
-      default: "'Open Sans', sans-serif",
-      secondary: "'Montserrat', sans-serif",
+      default: "'Roboto Condensed', sans-serif;",
+      secondary: "'Open Sans', sans-serif;",
     },
     sizes: {
       xsmall: '8rem',
