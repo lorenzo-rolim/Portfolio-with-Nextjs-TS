@@ -1,6 +1,6 @@
 # BOILERPLATE NEXT.js
 
-This is my firs boilerplate in NEXT.js, here we have style-components, jest and typescript with all configurations.
+This is my first boilerplate in NEXT.js, here we have style-components, jest and typescript with all configurations.
 
 ## NPM RUN DEV
 
